@@ -49,3 +49,24 @@ With increasing global awareness around ethical shopping, many users are looking
    ```bash
    git clone https://github.com/yourusername/glowguide.git
    cd glowguide
+   
+2. **Start XAMPP**
+-Launch XAMPP and start Apache
+-Place the project folder in the htdocs directory
+
+3. **Access in Browser**
+-Open your browser and go to:
+http://localhost/glowguide
+
+🔮 **Future Enhancements**
+-🔍 Search and filter options for faster product discovery
+-📦 Add regional filters (e.g., made in Turkey, Korea, etc.)
+-📱 Mobile app version for Android and iOS
+-⭐ Wishlist feature for saving favorite listings
+-🛡️ Admin panel for managing products and testimonials
+
+🙋 **Who Is It For?**
+-Conscious consumers avoiding Israeli-affiliated brands
+-Skincare lovers looking for verified, ethical alternatives
+-Activists and supporters of responsible commerce
+-Users who value transparency in beauty product sourcing
